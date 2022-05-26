@@ -1,0 +1,5 @@
+B5-B: Y
+C2-C: Y
+C7-A: Y
+C7-A: Y
+G2-B: Y

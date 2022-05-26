@@ -1,0 +1,5 @@
+H4-A: Y
+E9-A: N
+A8-A: Y
+C2-A: N
+A9-C: Y

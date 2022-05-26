@@ -1,0 +1,5 @@
+C8-A: Y
+B6-A: N
+B3-B: Y
+A9-D: N
+C8-D: N

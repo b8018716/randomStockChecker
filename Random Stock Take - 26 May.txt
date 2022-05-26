@@ -1,0 +1,10 @@
+B9-C: Y
+D9-A: Y
+G5-C: Y
+G6-D: Y
+C8-B: Y
+A4-B: Y
+C2-A: Y
+G3-A: Y
+G9-B: Y
+A1-C: Y
